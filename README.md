@@ -1,4 +1,4 @@
-#FAQs 🍅
+ • #FAQs 🍅
 
 # • Assista filmes, séries e animes de graça.
 
@@ -8,4 +8,4 @@ E-mail ✉️: *contact.tomatoanimes@gmail.com
 # Nosso catálogo ainda e pequeno, estamos adicionando novos conteudos.
 
 ****************************************
-![1000024101](https://github.com/user-attachments/assets/b4c5442d-5741-4c28-b302-653bda91b6de)
+![1000024104](https://github.com/user-attachments/assets/b451cfda-ba6b-4031-8aeb-e06fe7eb816f)
