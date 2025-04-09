@@ -13,7 +13,7 @@ http://45.11.59.11/movie/epg/epg/296739.mp4?ext=.ts
 *
 #EXTINF:-1 tvg-name="Ainda Estou Aqui" type="video/mp4" 
 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Ainda_Estou_Aqui_2024_poster.jpg" group-title="Oscar: 2025",Ainda Estou Aqui
-http://45.11.59.11/movie/epg/epg/297278.mp4?ext=.ts
+http://45.11.59.11/movie/epg/epg/297278.mp4?ext=.ts?suburl=https://www.youcineweb.com/public/subs/7f4b3b11-47aa-4f5c-a422-b7d9841c0937.srt
 *
 #EXTINF:-1 tvg-name="Moana 2" type="video/mp4" 
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpqUPHZ0RsB6AWswOqDFKGsORas22iQPw4Q&s" group-title="Animação",Moana 2
