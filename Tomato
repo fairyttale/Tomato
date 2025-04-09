@@ -19,9 +19,7 @@ http://45.11.59.11/movie/epg/epg/297278.mp4?ext=.ts?suburl=https://www.youcinewe
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpqUPHZ0RsB6AWswOqDFKGsORas22iQPw4Q&s" group-title="Animação",Moana 2
 http://45.11.59.11/movie/epg/epg/297328.mp4?ext=.ts
 *********
-EXTINF:-1 tvg-name="Devil May Cry" type="m3u_plus" 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIePQqpKskocqWxrSXtdt-coPKj6iQKQkfoNEBohZDnjG7Ot1XidvOjMC&s=10" group-title="Netflix",Devil May Cry Episodio 2
-http://45.11.59.11/series/epg/epg/300173.mp4?ext=.ts
-EXTINF:-1 tvg-name="Devil May Cry" type="m3u_plus" 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIePQqpKskocqWxrSXtdt-coPKj6iQKQkfoNEBohZDnjG7Ot1XidvOjMC&s=10" group-title="Netflix",Devil May Cry Episodio 2
-http://45.11.59.11/series/epg/epg/300173.mp4?ext=.ts
+*********
+EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="video/mp4"
+tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title=" Series | Crunchyroll",Episódio 1 S01E01
+http://cliente33.com/series/epg/epg/261828.mp4
