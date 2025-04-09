@@ -1,7 +1,7 @@
 #EXTM3U
 
 [✅] Todas as sugestões enviadas por vocês são lidas, catalogadas e adicionadas no nosso cronograma de uploads.
-Nós não somos uma equipe gigantesca, então sejam pacientes.
+Nós não somos uma equipe gigantesca.
 *********************************************************
 #EXTINF:-1 tvg-name="A Substância" type="video/mp4" 
 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAo64YlusORbyhq9NQMVsEhpcYV8BLblyr8GA-0h_ZsrC3KgQ0" group-title="Terror",A Substancia
@@ -19,6 +19,7 @@ http://45.11.59.11/movie/epg/epg/297278.mp4?ext=.ts?suburl=https://www.youcinewe
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpqUPHZ0RsB6AWswOqDFKGsORas22iQPw4Q&s" group-title="Animação",Moana 2
 http://45.11.59.11/movie/epg/epg/297328.mp4?ext=.ts
 *
+*********
 EXTINF:-1 tvg-name="Devil May Cry" type="m3u_plus" 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIePQqpKskocqWxrSXtdt-coPKj6iQKQkfoNEBohZDnjG7Ot1XidvOjMC&s=10" group-title="Series | Netflix",Devil May Cry Episodio 1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIePQqpKskocqWxrSXtdt-coPKj6iQKQkfoNEBohZDnjG7Ot1XidvOjMC&s=10" group-title="Netflix",Devil May Cry Episodio 1
 http://45.11.59.11/series/epg/epg/300173.mp4?ext=.ts
