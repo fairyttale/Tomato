@@ -2,7 +2,7 @@
 
 # • Assista filmes, séries e animes de graça.
 
-# Quer pedir um filme/serie?
+# Quer pedir um filme/serie? (não adicionamos novelas.)
 E-mail ✉️: *contact.tomatoanimes@gmail.com
 
 # Nosso catálogo ainda e pequeno, estamos adicionando novos conteudos.
