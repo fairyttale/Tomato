@@ -2,8 +2,8 @@
 
 # • Assista filmes, séries e animes de graça.
 
-# Para ver as informações de um filme/serie ou anime clique aqui:
-> https://m.imdb.com/pt/
+#Para ver as informações de um filme/serie ou anime clique aqui:
+https://m.imdb.com/pt/
 
 # Quer pedir um filme/serie? (não adicionamos novelas.)
 E-mail ✉️: *contact.tomatoanimes@gmail.com
