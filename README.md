@@ -5,7 +5,7 @@
 #Para ver as informações de um filme/serie ou anime clique aqui:
 https://m.imdb.com/pt/
 
-# Quer pedir um filme/serie? (não adicionamos novelas.)
+# Quer pedir um filme/serie ou anime? (não adicionamos novelas.)
 E-mail ✉️: *contact.tomatoanimes@gmail.com
 
 # Nosso catálogo ainda e pequeno, estamos adicionando novos conteudos.
