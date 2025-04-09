@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U
 
 [✅] Todas as sugestões enviadas por vocês são lidas, catalogadas e adicionadas no nosso cronograma de uploads.
 Nós não somos uma equipe gigantesca.
@@ -22,9 +22,9 @@ http://45.11.59.11/movie/epg/epg/297328.mp4
 
 
 
-#EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome Episódios 1" type="m3u_plus"
+#EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="m3u_plus"
 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title=" Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
 http://cliente33.com/series/epg/epg/261828.mp4
-#EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome Episódio 2" type="m3u_plus"
+#EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="m3u_plus"
 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title=" Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
 http://cliente33.com/series/epg/epg/261828.mp4
