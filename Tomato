@@ -1,5 +1,20 @@
 #EXTM3U
 
+[✅] Todas as sugestões enviadas por vocês são lidas, catalogadas e adicionadas no nosso cronograma de uploads.
+Nós não somos uma equipe gigantesca, então sejam pacientes.
+*********************************************************
 #EXTINF:-1 tvg-name="A Substância" type="video/mp4" 
 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAo64YlusORbyhq9NQMVsEhpcYV8BLblyr8GA-0h_ZsrC3KgQ0" group-title="Terror",A Substancia
 http://45.11.59.11/movie/epg/epg/296732.mp4?ext=.ts
+*
+#EXTINF:-1 tvg-name="Flow" type="video/mp4" 
+tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/38a6ed061ef112937dcd8e99f2200ab2991f212c7ef82c46e8f3f6a24100a5cc.jpg" group-title="Oscar: 2025",Flow
+http://45.11.59.11/movie/epg/epg/296739.mp4?ext=.ts
+*
+#EXTINF:-1 tvg-name="Ainda Estou Aqui" type="video/mp4" 
+tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Ainda_Estou_Aqui_2024_poster.jpg" group-title="Oscar: 2025",Ainda Estou Aqui
+http://45.11.59.11/movie/epg/epg/297278.mp4?ext=.ts
+*
+#EXTINF:-1 tvg-name="Moana 2" type="video/mp4" 
+tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Ainda_Estou_Aqui_2024_poster.jpg" group-title="Animação",Moana 2
+http://45.11.59.11/movie/epg/epg/297328.mp4?ext=.ts
