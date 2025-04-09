@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="A Substância" type="video/mp4" 
+tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAo64YlusORbyhq9NQMVsEhpcYV8BLblyr8GA-0h_ZsrC3KgQ0" group-title="Terror",A Substancia
+http://45.11.59.11/movie/epg/epg/296732.mp4?ext=.ts
