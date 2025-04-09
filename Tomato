@@ -24,7 +24,4 @@ http://45.11.59.11/movie/epg/epg/297328.mp4
 
 #EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="m3u_plus"
 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title=" Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
-http://cliente33.com/series/epg/epg/261828.mp4
-#EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="m3u_plus"
-tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title=" Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
-http://cliente33.com/series/epg/epg/261828.mp4
+http://cliente33.com/series/epg/epg/261828.mp4?suburl=http://cliente33.com/series/epg/epg/261829.mp4
