@@ -32,8 +32,48 @@ http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4366061.mp4
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRR-oJm-M1r19fMTAZL38JLtFTPI-WPnU2eeNcFwoU8PxRFI1m_IGjcsI&s=10" group-title="Animação",The Witcher: Sereias das Profundezas
 http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4351117.mp4
 *
-
-
+#EXTINF:-1 tvg-name="Temporada de Furacões" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUOU7BcFqXdc1r_w5sO7bYaUbNwUM0gmjOuEj2WQicPMyYbxhk" group-title="Ficção policial",Temporada de Furacões
+http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4351853.mp4
+*
+#EXTINF:-1 tvg-name="O Milagre" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT78LHh7JTIpnaPHeRGxFBS0-Surod2ydTMLw&usqp=CAU" group-title="Drama",O Milagre
+http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4351793.mp4
+*
+#EXTINF:-1 tvg-name="Jogo Justo" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzKSjWiPfHFw8krOiKYwKeFYYSqVvMWfa5mlFI832GTUL_BUtkAb-yzKY8&s=10" group-title="Romance",Jogo Justo
+http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4351719.mp4
+*
+#EXTINF:-1 tvg-name="Athena" type="video/mp4" 
+tvg-logo="https://br.web.img2.acsta.net/pictures/22/09/02/11/45/0753062.jpg" group-title="Ação",Athena
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4351621.mp4
+*
+#EXTINF:-1 tvg-name="Garota do Seculo 20" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZ5hEeVLwUZCgK-xxvasYwql04tcLK5WwDoM3mXmor5Wug-DoXYpfl4vm&s=10" group-title="Romance",Garota do Seculo 20
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4351701.mp4
+*
+#EXTINF:-1 tvg-name="Mate-me se Puder" type="video/mp4" 
+tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/10/03/05/45/1493691.png" group-title="Crime",Mate-me se Puder
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4351730.mp4
+*
+#EXTINF:-1 tvg-name="Ghost in the Shell: O Fantasma do Futuro" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotkRF8P7eQNJ4H5yWg66EQvnU68hCBhdAS1oTArl_IkyjuHPNJ1DMbtfI&s=10" group-title="Animação",Ghost in the Shell: O Fantasma do Futuro
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4351702.mp4
+*
+#EXTINF:-1 tvg-name="Resgate 2" type="video/mp4" 
+tvg-logo="https://br.web.img2.acsta.net/pictures/23/05/29/15/29/0726500.jpg" group-title="Ação",Resgate 2
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4351833.mp4
+*
+#EXTINF:-1 tvg-name="Boruto: Naruto O Filme" type="video/mp4" 
+tvg-logo="https://static.wikia.nocookie.net/naruto/images/5/5b/Boruto_o_Filme_(Poster_2).png/revision/latest?cb=20150621233621&path-prefix=pt-br" group-title="Animação",Boruto: Naruto O Filme
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4356718.mp4
+*
+#EXTINF:-1 tvg-name="Look Back" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGca0reSikUJYJqnGQRerMEaK9jxpM7LJmVNyB_BvJPMFYKV00AkGBmD4&s=10" group-title="Animação",Look Back
+http://abobrinharoxa.xyz/movie/deisavi/deisavi/4356733.mp4
+*
+#########################################################
+*
 #ABA DE SÉRIES 🎬:
 #EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="m3u_plus"
 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title="Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
