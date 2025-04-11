@@ -1,8 +1,13 @@
-EXTM3U
+#EXTM3U :-tvg
 
 [✅] Todas as sugestões enviadas por vocês são lidas, catalogadas e adicionadas no nosso cronograma de uploads.
 Nós não somos uma equipe gigantesca.
+
+FAQ: Quer pedir um filme/serie? (não adicionamos novelas.)
+
+[✅] E-mail ✉️: * contact.tomatoanimes@gmail.com *
 *********************************************************
+#ABA DE FILMES 🎞️:
 #EXTINF:-1 tvg-name="A Substância" type="video/mp4" 
 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAo64YlusORbyhq9NQMVsEhpcYV8BLblyr8GA-0h_ZsrC3KgQ0" group-title="Terror",A Substancia
 http://45.11.59.11/movie/epg/epg/296732.mp4?ext=.ts
@@ -21,7 +26,12 @@ http://45.11.59.11/movie/epg/epg/297328.mp4
 
 
 
-
+#ABA DE SÉRIES 🎬:
 #EXTINF:-1 tvg-name="Hanako-kun e os Mistérios do Colégio Kamome" type="m3u_plus"
-tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title=" Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
-http://cliente33.com/series/epg/epg/261828.mp4?suburl=http://cliente33.com/series/epg/epg/261829.mp4
+tvg-logo="https://static.wikia.nocookie.net/dublagem/images/c/ca/Toilet-bound_Hanako-kun.jpg/revision/latest?cb=20210930194654&path-prefix=pt-br" group-title="Series | Crunchyroll",Hanako-kun e os Mistérios do Colégio Kamome
+http://cliente33.com/series/epg/epg/261828.mp4?suburl=
+
+#######################################################
+#ABA DE CANAIS 📺:
+#EXTINF:-1 tvg-name="AnimeTV"tvg-logo="https://pbs.twimg.com/profile_images/1816519340419633152/HY2q8WHj.jpg" group-title="Anime & Geek",AnimeTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
