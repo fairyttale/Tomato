@@ -22,8 +22,16 @@ http://45.11.59.11/movie/epg/epg/297278.mp4?ext=.ts?suburl=https://www.youcinewe
 *
 #EXTINF:-1 tvg-name="Moana 2" type="video/mp4" 
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpqUPHZ0RsB6AWswOqDFKGsORas22iQPw4Q&s" group-title="Animação",Moana 2
-http://45.11.59.11/movie/epg/epg/297328.mp4 
-
+http://45.11.59.11/movie/epg/epg/297328.mp4
+*
+#EXTINF:-1 tvg-name="Sonic 3: O Filme" type="video/mp4" 
+tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d3d170cab1ef757a9a437cb9aa70bb33a8897f31f327f02c2de4d5a50dd32ff4.jpg" group-title="Ação",Sonic 3: O Filme
+http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4366061.mp4
+*
+#EXTINF:-1 tvg-name="The Witcher: Sereias das Profundezas" type="video/mp4" 
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRR-oJm-M1r19fMTAZL38JLtFTPI-WPnU2eeNcFwoU8PxRFI1m_IGjcsI&s=10" group-title="Animação",The Witcher: Sereias das Profundezas
+http://abobrinharoxa.xyz:80/movie/deisavi/deisavi/4351117.mp4
+*
 
 
 #ABA DE SÉRIES 🎬:
