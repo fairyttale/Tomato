@@ -2,7 +2,7 @@
 
 # • Assista filmes, séries de graça.
 
-#Para ver as informações de um filme/serie ou anime clique aqui:
+#Para ver as informações de um filme/serie clique aqui:
 https://m.imdb.com/pt/
 
 # Quer pedir um filme/serie? (não adicionamos novelas.)
