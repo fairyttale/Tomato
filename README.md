@@ -1,6 +1,6 @@
  • #FAQs 🍅
 
-# • Assista filmes, séries e animes de graça.
+# • Assista filmes, séries de graça.
 
 #Para ver as informações de um filme/serie ou anime clique aqui:
 https://m.imdb.com/pt/
